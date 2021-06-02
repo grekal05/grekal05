@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @grekal05
-- 👀 I’m interested in Html, Css, JS 
+- 👀 I’m interested in Html, Css, JS, Angular, NodeJs
 - 🌱 I’m currently learning Js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
